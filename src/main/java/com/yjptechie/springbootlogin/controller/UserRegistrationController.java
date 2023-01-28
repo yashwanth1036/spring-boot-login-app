@@ -2,8 +2,6 @@ package com.yjptechie.springbootlogin.controller;
 
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
-
 import com.yjptechie.springbootlogin.controller.dto.UserRegistrationDto;
 import com.yjptechie.springbootlogin.service.UserService;
 
